@@ -9,14 +9,14 @@ $(function() {
     siteTagline: "I'm John-Henry and I Beat The Machine",
 
     // Email address
-    siteEmail: 'om@johnhenrybeatsthemachine.com',
+    siteEmail: 'bholdendev@gmail.com',
 
     // Name
-    siteAuthor: 'John-Henry Liberty',
+    siteAuthor: 'Harper Holden',
 
     // Navigation items
     siteNavItems: [
-      { name: 'Github', href: 'https://github.com/jhliberty', newWindow: false},
+      { name: 'Github', href: 'https://github.com/harpholden', newWindow: false},
       { name: 'About'}
     ],
 
@@ -53,8 +53,8 @@ $(function() {
 
      // If Github mode is set, your Github username and repo name.
     githubUserSettings: {
-      username: 'jhliberty',
-      repo: 'jhbtm'
+      username: 'harpholden',
+      repo: 'blogg'
     },
 
     // If Github mode is set, choose which Github branch to get files from.
